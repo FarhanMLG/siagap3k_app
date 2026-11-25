@@ -48,7 +48,7 @@ class AboutPage extends StatelessWidget {
           SizedBox(height: 8),
           _ProfileRow(label: 'NIM', value: '21120124130069'),
           SizedBox(height: 8),
-          _ProfileRow(label: 'Kelas/Matkul', value: 'Praktikum PPB 2026'),
+          _ProfileRow(label: 'Matkul', value: 'Praktikum PPB 2026'),
         ],
       ),
     );
